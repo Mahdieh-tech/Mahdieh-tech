@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mahdieh 👋
 
-<!--
-**Mahdieh-tech/Mahdieh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer in progress  
+🧠 Where code meets psychology  
+🌱 Exploring the endless world of front-end (JavaScript)  
+🎯 Big dreamer on a mission: building projects that connect tech and humans  
+🔥 ENTJ personality — Extraverted, Intuitive, Thinking, Judging  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- HTML, CSS, JavaScript    
+- Python
+- Git & GitHub
+- Human behavior 𝚿    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect
+- 📧 Email: [iammahdiehaghaei@gmail.com](mailto:iammahdiehaghaei@gmail.com)  
+- 💼 LinkedIn: [mahdieh-aghaei](https://www.linkedin.com/in/mahdieh-aghaei-a49b56375)
