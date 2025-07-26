@@ -7,8 +7,7 @@
 🔥 ENTJ personality — Extraverted, Intuitive, Thinking, Judging  
 
 ## 🔧 Tools & Skills
-- HTML, CSS, JavaScript    
-- Python
+- HTML, CSS, JavaScript
 - Git & GitHub
 - Human behavior 𝚿    
 
