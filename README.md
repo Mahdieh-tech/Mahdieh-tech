@@ -4,13 +4,13 @@
 🗺 Exploring the endless world of front-end (JavaScript)  
 🌱 Currently learning and building with React  
 🎯 Big dreamer on a mission: building projects that connect tech and humans  
-💡 ENTJ personality — Extraverted, Intuitive, Thinking, Judging
+💡 ENTJ personality — Extroverted, Intuitive, Thinking, Judging
 
 ## 🔧 Tools & Skills
 - HTML, CSS, JavaScript
 - React (currently learning)
 - Git & GitHub
-- Human behavior & cognitive psychology 𝚿    
+- Human behavior & cognitive psychology     
 
 ## 📫 Let’s Connect
 - 📧 Email: [iammahdiehaghaei@gmail.com](mailto:iammahdiehaghaei@gmail.com)  
