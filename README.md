@@ -3,9 +3,9 @@
 💻 Front-End Developer  
 🧠 Where code meets psychology  
 🗺 Exploring the endless world of front-end (JavaScript)  
-🌱 Currently learning and building with React.
+🌱 Currently learning and building with React  
 🎯 Big dreamer on a mission: building projects that connect tech and humans  
-💡 ENTJ personality — Extraverted, Intuitive, Thinking, Judging  
+💡 ENTJ personality — Extraverted, Intuitive, Thinking, Judging
 
 ## 🔧 Tools & Skills
 - HTML, CSS, JavaScript
