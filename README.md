@@ -1,13 +1,13 @@
 Hi there, I'm Mahdieh 👋
 
-💻 Front-End Developer
-🗺 Exploring the world of JavaScript
-🌱 Currently learning React
+🗺 Exploring the world of Front-End development
 🎯 Enjoy building projects where technology meets real human needs
 
 🔧 Tools & Skills
-HTML, CSS, JavaScript
-React (currently learning)
+HTML, CSS 
+JavaScript
+React
+Tailwind
 Git & GitHub
 
 📫 Let’s Connect
